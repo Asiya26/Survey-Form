@@ -1,0 +1,29 @@
+header.banner .logo, text{
+color:greenyellow;
+text-align: center;
+margin: 1rem;
+padding: 5rem;
+
+}
+
+
+
+header.banner .bg{
+background-image: url(./img/background_image.jpg);
+background-size: cover;
+height: 100vh;
+}
+
+.container{ 
+    display:contents;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 0;
+    margin-right: 0;
+    padding-left: 40px;
+  }
+
+.box{
+overflow: scroll;
+  }
